@@ -7,10 +7,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hustling-Everyday-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean-Code-lover-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-React-orange?style=for-the-badge" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
 
 
 
