@@ -5,9 +5,13 @@
 </p>
 
 
+
 <p align="center">
-  <img src="https://github.com/its-rai.Krishna/its-rai.Krishna/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://img.shields.io/badge/Hustling-Everyday-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean-Code-lover-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-React-orange?style=for-the-badge" />
 </p>
+
 
 
 
