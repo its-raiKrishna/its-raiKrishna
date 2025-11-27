@@ -3,11 +3,10 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Java+%26+Web+Development+Learner;Learning+Every+Day;Building+Projects+Step+By+Step" />
 </p>
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Java+%26+Web+Development+Learner;Always+Learning+New+Things;Building+Projects+Step+By+Step;Future+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://streak-stats.demolab.com/?user=its-rai.Krishna&theme=tokyonight" />
 </p>
+
 
 ---
 
