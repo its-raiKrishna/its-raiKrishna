@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">
+  Hey <span style="font-size:28px;">👋</span>, I'm <span style="color:#00aaff;">Krishna Rai</span>.
+</h1>
 
-<!--
-**its-raiKrishna/its-raiKrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Java+%26+Web+Development+Learner;Always+Learning+New+Things;Building+Projects+Step+By+Step;Future+Full+Stack+Developer" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<p align="left">
+
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C Language" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+
+  <!-- Backend (Future) -->
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=intellij" width="48" height="48" alt="IntelliJ IDEA" />
+
+</p>
+
+---
+
+## 🔥 About Me
+
+- 🌱 Learning and improving in **Java, Python, C, HTML, CSS, JavaScript & MySQL**  
+- ⚛️ Exploring **React** and modern web development  
+- 🔨 I build small projects to strengthen my concepts  
+- 📘 I focus on understanding how things work, not just memorizing  
+- ✨ Consistency and curiosity are my two strengths  
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Krishna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=its-rai.Krishna&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-rai.Krishna&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/krishna-rai-679960341/
+
+---
+
+### 💡 *-----  Always LEARNING, Always HUSTLING. -----*
