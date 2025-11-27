@@ -6,8 +6,9 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-rai.Krishna&color=blue&style=for-the-badge" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
 
 
 
